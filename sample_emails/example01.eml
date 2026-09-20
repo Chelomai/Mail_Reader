@@ -1,0 +1,4 @@
+<ElicitationsGroup message="If you'd like to extend this project for GitHub, I can help you add:">
+  <Elicitation label="Add interactive Streamlit dashboard UI" query="Add a Streamlit visual dashboard interface to this email analyzer project."/>
+  <Elicitation label="Add advanced header & spoofing analysis" query="Expand the email analyzer to check SPF, DKIM, DMARC, and IP hop path headers for spoofing."/>
+</ElicitationsGroup>
